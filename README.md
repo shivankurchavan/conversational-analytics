@@ -142,9 +142,9 @@ Conversational-analytics/
     - Send the request to create an admin user
     - Screenshots
     <br>
-    <img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/postman-1.png">
+    <img width="400" src="">
     <br>
-    <img width="400" src="https://github.com/genieincodebottle/generative-ai/blob/main/genai_usecases/conversational-analytics/images/postman-2.png">
+    <img width="400" src="">
 
     Note: If you want to use curl command instead of postman then run following curl command after changing X-Admin-key value and username & password
     ```bash
